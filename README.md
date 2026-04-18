@@ -39,6 +39,13 @@ Melody — Keksuccino.
 Noisium — Steveplays.
 Stack Refill — Rick South
 armor hud SaolGhra
-Balm BlayTheNinth
-
-More comming soon
+Concurrent Chunk Management Engine (C2ME) owner: ishland member: duplexsystem
+ EssentialAdons senseiwells
+ Freecam owner: hashalite member:MattSturgeon
+ Gamma utils Sjouwer
+ Gnetum decce6
+ Just zoom Keksuccino
+ Noisium CaffeineMC jellysquid3 Project lead, douira maintainer, IMS maintainer
+ SwingThrough sisby-folk and exaptations
+ 
+ 
